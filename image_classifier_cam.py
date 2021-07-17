@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 #Vairable Declaration
-url = "http://10.42.0.96:8080/shot.jpg"
+url = "http://192.168.43.1:8080/shot.jpg"
 frame_width = 900
 frame_height = 560
 
